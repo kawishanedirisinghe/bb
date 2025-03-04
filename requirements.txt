@@ -1,0 +1,11 @@
+ipaddress
+requests
+aiohttp
+tqdm
+python-telegram-bot
+ollama
+pyTelegramBotAPI
+ollama
+transformers
+mistral 
+torch
